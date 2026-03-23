@@ -1,0 +1,6 @@
+target/
+maven-proxy.xml
+*.class
+.settings/
+.project
+.classpath
